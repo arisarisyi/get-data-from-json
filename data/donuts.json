@@ -1,0 +1,88 @@
+{
+    "menu": [
+        {
+            "kategori": "donut",
+            "nama": "Alcapone",
+            "deskripsi": "Donut dipped in white chocolate and topped with sliced toasted almonds.",
+            "harga": 20000,
+            "gambar": "alcapone.jpg"
+        },
+        {
+            "kategori": "donut",
+            "nama": "Avocado Dicaprio",
+            "deskripsi": "Donut filled with avocado cream, dipped in avocado chocolate, and garnished with dark chocolate flakes.",
+            "harga": 21000,
+            "gambar": "avocado.jpg"
+        },
+        {
+            "kategori": "donut",
+            "nama": "Berry Speers",
+            "deskripsi": "Donut filled with whipped cream cheese, dipped in strawberry jam, and garnished with white chocolate flakes.",
+            "harga": 19000,
+            "gambar": "berry.jpg"
+        },
+        {
+            "kategori": "donut",
+            "nama": "Black Jack",
+            "deskripsi": "Donut fully encased in dark chocolate.",
+            "harga": 20500,
+            "gambar": "black.jpg"
+        },
+        {
+            "kategori": "cool",
+            "nama": "To Go",
+            "deskripsi": "Fat-free frozen yogurt in original or blueberry flavor with toppings of your choice, in convenient to-go packaging.",
+            "harga": 63000,
+            "gambar": "to-go.jpg"
+        },
+        {
+            "kategori": "cool",
+            "nama": "Sharing",
+            "deskripsi": "Fat-free frozen yogurt in original or blueberry flavor with toppings of your choice.",
+            "harga": 50000,
+            "gambar": "sharing.jpg"
+        },
+        {
+            "kategori": "cool",
+            "nama": "Couple",
+            "deskripsi": "Fat-free frozen yogurt in original or blueberry flavor with toppings of your choice.",
+            "harga": 43000,
+            "gambar": "couple.jpg"
+        },
+        {
+            "kategori": "coffee",
+            "nama": "Americano",
+            "deskripsi": "Hot black coffee.",
+            "harga": 24000,
+            "gambar": "americano.jpg"
+        },
+        {
+            "kategori": "coffee",
+            "nama": "Avocado Frappe",
+            "deskripsi": "Espresso shot blended with ice nuggets, fresh milk, avocado powder, topped with mocha cream, and garnished with chocolate flakes.",
+            "harga": 34000,
+            "gambar": "frappe.jpg"
+        },
+        {
+            "kategori": "coffee",
+            "nama": "Hazelnut Latte",
+            "deskripsi": "Espresso shot with steamed fresh milk, hazelnut syrup, and garnished with caramel sauce.",
+            "harga": 30000,
+            "gambar": "hazelnut.jpg"
+        },
+        {
+            "kategori": "coffee",
+            "nama": "Mocha Espresso Frappe",
+            "deskripsi": "Espresso shot blended with ice nuggets, fresh milk, chocolate, topped with mocha cream, and garnished with chocolate powder.",
+            "harga": 40000,
+            "gambar": "mocha.jpg"
+        },
+        {
+            "kategori": "coffee",
+            "nama": "Machiato",
+            "deskripsi": "Espresso shot with thick milk foam.",
+            "harga": 34000,
+            "gambar": "machiato.jpg"
+        }
+    ]
+}
